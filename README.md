@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siddharth17vaishnav
-- 👀 I’m interested in Android and Web Development
+- 👀 Android and Web Developer
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me 
