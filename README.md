@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react native
 - 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me 
-  gmail:siddharth17vaishnav(http://instagram.com/code.siddharth)
+  [gmail - siddharth17vaishnav](http://instagram.com/code.siddharth)
   https://www.instagram.com/code.siddharth/
   https://twitter.com/siddharthvais15
 
