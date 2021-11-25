@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @siddharth17vaishnav
-- 👀 Android and Web Developer
-- 🌱 I’m currently learning react native
-- 💞️ I’m looking to collaborate on android development
-- 📫 How to reach me 
-  [gmail - siddharth17vaishnav](http://instagram.com/code.siddharth)
-  [instagram](https://instagram.com/code.siddharth)
+- 👀 FrontEnd Developer (Reactjs)
+- 🌱 I’m currently learning MernStack
+- 💞️ I’m looking to collaborate on Web development
+- 📫 How to reach me [Instagram](https://www.instagram.com/code.siddharth/) [Twitter](https://twitter.com/code_siddharth) [Whatsapp](https://wa.me/9409239563)
 
-<!---
-siddharth17vaishnav/siddharth17vaishnav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=siddharth17vaishnav&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
