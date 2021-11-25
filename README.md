@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on android development
 - 📫 How to reach me 
   [gmail - siddharth17vaishnav](http://instagram.com/code.siddharth)
-  https://www.instagram.com/code.siddharth/
-  https://twitter.com/siddharthvais15
+  [instagram](https://instagram.com/code.siddharth)
 
 <!---
 siddharth17vaishnav/siddharth17vaishnav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
